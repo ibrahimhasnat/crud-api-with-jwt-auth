@@ -1,9 +1,8 @@
 A CRUD application API with the JWT authentication feature where have the user register and login API can CRUD post under a user.
 
-#### Quick Start
+## Quick Start
 
-`
-
+```
 # Install dependencies
 
 npm install
@@ -15,20 +14,20 @@ npm install
 # Run
 
 npm start
-`
+```
 
-##### API endpoint for register user
+#### API endpoint for register user
 
 POST: `/api/users`
 
-##### API endpoint for login user
+#### API endpoint for login user
 
 POST `/api/auth`
 
-##### API endpoint for get user
+#### API endpoint for get user
 
 GET `/api/auth`
 
-##### API endpoint for CRUD post
+#### API endpoint for CRUD post
 
 `api/posts`
