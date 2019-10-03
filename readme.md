@@ -1,4 +1,4 @@
-A CRUD application API with the JWT authentication feature where have the user register and login API can CRUD post under a user.
+A CRUD application API with the JWT authentication using Node and Express
 
 ## Quick Start
 
